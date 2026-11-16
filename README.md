@@ -24,7 +24,6 @@ Inspired by MSI Afterburner, sLimit is a highly customizable GUI overclocking to
 
 ## Future features:
 
-- AMD Support
 - GPU Undervolting
   
 ## Installation:
